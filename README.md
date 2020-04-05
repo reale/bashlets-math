@@ -1,5 +1,8 @@
 # bashlets-math
 
+* bashlets.math.bc: Interface to the bc calculator
+* bashlets.math.historical
+* bashlets.math.poly
 
 ## Examples
 
